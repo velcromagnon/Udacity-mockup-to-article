@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+
+(This is the 2nd time going through this.)
+  * What new skills have you learned?
+
+    New HTML5 tags.
+  * What has been easy?
+ 
+    Most things
+  * What has been difficult?
+
+    Some external linking to images because you can't use the commons jpg link directly.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    Yes, searching online for the answer to questions like this.
